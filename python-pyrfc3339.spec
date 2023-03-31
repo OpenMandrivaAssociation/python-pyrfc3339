@@ -1,6 +1,6 @@
 Name:		python-pyrfc3339
 Version:	1.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pyrfc3339/pyRFC3339-%{version}.tar.gz
 Summary:	Generate and parse RFC 3339 timestamps
 URL:		https://pypi.org/project/pyrfc3339/
