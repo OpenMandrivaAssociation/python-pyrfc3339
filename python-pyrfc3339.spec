@@ -28,4 +28,4 @@ export SETUPTOOLS_SCM_PRETEND_VERSION="%{version}"
 
 %files
 %{py_sitedir}/pyrfc3339
-%{py_sitedir}/pyRFC3339-*.*-info
+%{py_sitedir}/pyrfc3339-%{version}.dist-info
